@@ -50,3 +50,12 @@
 **(h)** (   ) to say, health is more important than money.
 
 ① Needless  ② Useless  ③ Careless  ④ Helpless
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_3/5_不定詞_106_134/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_3/5_不定詞_106_134/pair_002/A.md) |

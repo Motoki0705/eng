@@ -99,3 +99,12 @@
 | -able は元の語を保持 | COMfortable, FAVorable |
 | -istic は -is- の前 | optimIStic, realistisTIC |
 | -ize は接尾辞の2つ前 | EMphasize, RECognize |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Bに戻る](../../../tests/problem_4/accent_rules/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_4/accent_rules/pair_002/knowledge.md) |

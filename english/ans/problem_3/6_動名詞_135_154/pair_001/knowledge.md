@@ -161,3 +161,12 @@ on doing「〜するとすぐに」
 | look forward to doing の to は前置詞であることを覚えた | ☐ |
 | be used to doing と used to do の違いがわかる | ☐ |
 | have difficulty (in) doing を覚えた | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_3/6_動名詞_135_154/pair_001/A.md) |

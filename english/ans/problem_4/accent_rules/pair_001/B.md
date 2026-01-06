@@ -103,3 +103,12 @@
 | -ology の2つ前 | biOLogy, techNOLogy |
 | -ate 動詞の2つ前 | comMUnicate, eLIMinate |
 | -tive/-sive の前 | compreHENsive |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Bに戻る](../../../tests/problem_4/accent_rules/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_4/accent_rules/pair_001/knowledge.md) |

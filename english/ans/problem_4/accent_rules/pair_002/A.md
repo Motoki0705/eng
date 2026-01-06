@@ -98,3 +98,12 @@
 | -ic の直前 | acadEMic, econOMic |
 | -ful は元の語を保持 | SUCcessful, BEAUtiful |
 | -ment は元の語を保持 | deVELopment |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Aに戻る](../../../tests/problem_4/accent_rules/pair_002/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_4/accent_rules/pair_002/B.md) |

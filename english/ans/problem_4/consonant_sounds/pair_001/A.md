@@ -115,3 +115,12 @@
 | p | ps, pn | psychology, pneumonia |
 | t | sten, stle | listen, castle |
 | w | wr | write, wrong |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Aに戻る](../../../tests/problem_4/consonant_sounds/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_4/consonant_sounds/pair_001/B.md) |

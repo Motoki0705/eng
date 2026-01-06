@@ -6,3 +6,12 @@ The history of photography reveals fascinating changes in how people perceive re
 　 inevitably 必然的に
 　 subjective 主観的な
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_1/10_関係詞構文/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/10_関係詞構文/pair_002/A.md) |

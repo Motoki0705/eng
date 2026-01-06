@@ -29,3 +29,12 @@ Despite these benefits, saving endangered languages remains an enormous challeng
 20. Experts all agree on which languages should be prioritized for preservation.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_2/social_science/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/social_science/pair_002/A.md) |

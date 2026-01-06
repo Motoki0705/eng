@@ -6,3 +6,12 @@ The field of psychology has evolved significantly since its origins in the late 
 　 workings 働き
 　 applications 応用
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_1/14_間接疑問文/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_1/14_間接疑問文/pair_001/B.md) |

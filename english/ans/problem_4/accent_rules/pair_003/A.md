@@ -99,3 +99,12 @@
 | -ity の1つ前 | curiOSity, necesSIty |
 | -ious は様々 | mysTErious, PREVious |
 | -ate形容詞は第1音節 | DELicate, ULtimate |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Aに戻る](../../../tests/problem_4/accent_rules/pair_003/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_4/accent_rules/pair_003/B.md) |

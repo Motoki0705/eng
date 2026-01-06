@@ -6,3 +6,12 @@ The concept of "social capital" has become increasingly important in modern soci
 　 prosperous 繁栄している
 　 collective well-being 集合的な幸福
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_1/10_関係詞構文/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/10_関係詞構文/pair_001/A.md) |

@@ -31,3 +31,12 @@ Marie Curie died in 1934 from aplastic anemia, almost certainly caused by her pr
 20. Marie Curie's research materials are still dangerous to handle today because of radiation.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_2/biography/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_001/A.md) |

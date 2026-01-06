@@ -124,3 +124,12 @@
 | イタリア語 | gh = 黙字 | spaghetti, ghetto |
 | ギリシャ語 | ps, pn = s, n | psychology, pneumonia |
 | ドイツ語 | ch = /k/ | ache, stomach |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Bに戻る](../../../tests/problem_4/consonant_sounds/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_4/consonant_sounds/pair_001/knowledge.md) |

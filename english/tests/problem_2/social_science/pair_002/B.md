@@ -29,3 +29,12 @@ The COVID-19 pandemic dramatically accelerated these debates. Millions of people
 20. The pandemic raised questions about traditional ideas about work.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_2/social_science/pair_002/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/social_science/pair_002/B.md) |

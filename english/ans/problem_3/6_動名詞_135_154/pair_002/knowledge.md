@@ -193,3 +193,12 @@ on doing「〜するとすぐに」
 | be accustomed to doing = be used to doing を覚えた | ☐ |
 | It goes without saying that の意味を覚えた | ☐ |
 | to + 動名詞の表現を整理できた | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_3/6_動名詞_135_154/pair_002/A.md) |

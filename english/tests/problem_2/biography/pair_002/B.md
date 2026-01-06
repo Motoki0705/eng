@@ -30,3 +30,12 @@ During her lifetime, Kahlo's work was often overshadowed by that of her more fam
 20. Kahlo's fame has increased significantly since her death.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_2/biography/pair_002/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_002/B.md) |

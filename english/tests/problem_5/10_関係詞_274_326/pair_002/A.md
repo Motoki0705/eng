@@ -19,3 +19,12 @@ I tried to solve the problem,（① which ② that ③ found ④ I ⑤ a waste �
 
 **D.** 交通渋滞にはまり、そのせいで会議に遅れた。
 We got stuck in a traffic jam,（① made ② it ③ which ④ late ⑤ us ⑥ for the meeting）.
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_5/10_関係詞_274_326/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_5/10_関係詞_274_326/pair_002/A.md) |

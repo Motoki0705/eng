@@ -158,3 +158,12 @@ needn't have done「〜する必要はなかった（のにした）」
 | should have done と should not have done の違いがわかる | ☐ |
 | needn't have done の意味がわかる | ☐ |
 | 助動詞 + have + 過去分詞 の語順を覚えた | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_5/3_助動詞の完了形_60_75/pair_001/A.md) |

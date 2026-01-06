@@ -40,3 +40,12 @@ You (  )(  )(  )(  ) such a rude thing to her.
 We (  )(  )(  )(  ) earlier. Now it's too late.
 
 1. should  2. started  3. have  4. start  5. must  6. had  7. have
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_5/3_助動詞の完了形_60_75/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_5/3_助動詞の完了形_60_75/pair_001/A.md) |

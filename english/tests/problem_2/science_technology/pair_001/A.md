@@ -29,3 +29,12 @@ The question of regulation has also become pressing. Different countries have ad
 20. Environmental concerns about AI development have been raised by some researchers.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_2/science_technology/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/science_technology/pair_001/A.md) |

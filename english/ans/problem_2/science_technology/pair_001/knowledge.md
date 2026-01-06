@@ -209,3 +209,12 @@
 > > Photosynthesis, **which occurs in the chloroplasts**, converts light energy into chemical energy.
 >
 > 関係詞節「which occurs in the chloroplasts」は**非制限用法**（カンマ付き）で、光合成についての追加情報を与えています。主動詞は「converts」です。長い文でも、主語と動詞を見つければ核心が分かります。
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_2/science_technology/pair_001/A.md) |

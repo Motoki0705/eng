@@ -6,3 +6,12 @@ Sleep deprivation has become a serious public health concern in modern societies
 　 chronic 慢性的な
 　 consistent 一貫した
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_1/5_不定詞構文/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_1/5_不定詞構文/pair_001/B.md) |

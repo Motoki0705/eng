@@ -5,3 +5,12 @@ Consumer behavior has become increasingly complex in the digital age. Shoppers n
 注 impulsive 衝動的な
 　 rationally 合理的に
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_1/8_比較構文/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_1/8_比較構文/pair_001/B.md) |

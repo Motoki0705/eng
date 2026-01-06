@@ -100,3 +100,12 @@
 | -tion/-sion の前 | inforMAtion |
 | -ic/-ical の前 | econOMic |
 | -cy/-gy/-phy の2つ前 | deMOCracy, geoGRaphy |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Aに戻る](../../../tests/problem_4/accent_rules/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_4/accent_rules/pair_001/B.md) |

@@ -6,3 +6,12 @@ The rise of artificial intelligence has sparked intense debate about the future 
 　 eliminate 排除する
 　 fundamentally 根本的に
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_1/5_不定詞構文/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/5_不定詞構文/pair_001/A.md) |

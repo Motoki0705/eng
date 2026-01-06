@@ -29,3 +29,12 @@ The field continues to evolve, with researchers exploring how technology and art
 20. All researchers believe that technology will solve the problem of human biases.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_2/social_science/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/social_science/pair_001/B.md) |

@@ -30,3 +30,12 @@ His story was (　　)(　　)(　　)(　　)(　　)(　　).
 
 He was not sure (　　)(　　)(　　)(　　)(　　)(　　) not.
 ① or ② whether ③ would ④ if ⑤ succeed ⑥ the plan ⑦ that
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [解答Aに戻る](../../../ans/problem_5/5_重要構文_106_134/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_5/5_重要構文_106_134/pair_001/B.md) |

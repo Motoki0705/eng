@@ -209,3 +209,12 @@ have no choice but to do「〜せざるを得ない」
 | so ... that の語順がわかる | ☐ |
 | not only A but also B を覚えた | ☐ |
 | have no choice but to do を覚えた | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_5/5_重要構文_106_134/pair_001/A.md) |

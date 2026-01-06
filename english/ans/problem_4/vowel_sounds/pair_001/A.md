@@ -98,3 +98,12 @@
 | ough | /ɔː/, /ʌ/, /oʊ/, /uː/, /aʊ/ | ought, rough, though, through, bough |
 | ear | /ɪr/, /ɜːr/, /eər/ | near, heard, bear |
 | eigh | /eɪ/, /aɪ/ | weigh, height |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [問題Aに戻る](../../../tests/problem_4/vowel_sounds/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_4/vowel_sounds/pair_001/B.md) |

@@ -40,3 +40,12 @@ Energy issues are (  )(  )(  )(  )(  ) environmental problems.
 He must finish his homework (  ) six o'clock.
 
 1. by  2. until  3. in  4. for  5. at  6. within  7. on
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_5/8_比較・特殊な前置詞_179_427/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_5/8_比較・特殊な前置詞_179_427/pair_001/A.md) |

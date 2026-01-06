@@ -185,3 +185,12 @@ with + A + 形容詞「Aが...の状態で」
 | Weather permitting などの独立分詞構文を覚えた | ☐ |
 | All things considered を覚えた | ☐ |
 | with A 形容詞/done/doing を整理できた | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_3/7_分詞_155_178/pair_002/A.md) |

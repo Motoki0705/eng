@@ -6,3 +6,12 @@ The art of negotiation requires both skill and patience. Many business deals fai
 　 non-verbal cues 非言語的な合図
 　 subtle 微妙な
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_1/5_不定詞構文/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/5_不定詞構文/pair_002/A.md) |

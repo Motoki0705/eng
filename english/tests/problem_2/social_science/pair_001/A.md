@@ -29,3 +29,12 @@ More recently, the COVID-19 pandemic raised new concerns about social capital. L
 20. Rebuilding social capital has become important after the COVID-19 pandemic.
 
 ---
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_2/social_science/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/social_science/pair_001/A.md) |

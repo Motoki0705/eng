@@ -6,3 +6,12 @@ Advances in medical technology have raised difficult ethical questions that soci
 　 inherited diseases 遺伝性疾患
 　 experimental 実験的な
 
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| ← [knowledge.md](../../../ans/problem_1/14_間接疑問文/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/14_間接疑問文/pair_001/A.md) |

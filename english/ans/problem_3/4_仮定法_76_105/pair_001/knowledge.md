@@ -162,3 +162,12 @@ with A / without A / but for A で仮定を表す
 | if it were not for / if it had not been for を覚えた | ☐ |
 | if の省略と倒置の形がわかる | ☐ |
 | Should S do の「万一」の意味がわかる | ☐ |
+
+
+---
+
+## 🔗 ナビゲーション
+
+| 前のステップ | 現在 | 次のステップ |
+|-------------|------|-------------|
+| — | 📚 knowledge.md（事前知識） | [問題Aへ →](../../../tests/problem_3/4_仮定法_76_105/pair_001/A.md) |
