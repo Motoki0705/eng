@@ -132,4 +132,4 @@ professionals who fail to update their skills risk being left behind
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/5_不定詞構文/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/5_不定詞構文/pair_002/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/5_不定詞構文/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/5_不定詞構文/pair_002/knowledge.md) |

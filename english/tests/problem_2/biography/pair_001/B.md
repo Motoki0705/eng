@@ -38,4 +38,4 @@ In the decades following his death, Turing's contributions to computer science a
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [解答Aに戻る](../../../ans/problem_2/biography/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_001/B.md) |
+| ← [解答Aに戻る](../../../../ans/problem_2/biography/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../../ans/problem_2/biography/pair_001/B.md) |

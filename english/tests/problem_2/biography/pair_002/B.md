@@ -38,4 +38,4 @@ During her lifetime, Kahlo's work was often overshadowed by that of her more fam
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [解答Aに戻る](../../../ans/problem_2/biography/pair_002/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_002/B.md) |
+| ← [解答Aに戻る](../../../../ans/problem_2/biography/pair_002/A.md) | 📝 B.md（問題） | [解答を見る →](../../../../ans/problem_2/biography/pair_002/B.md) |

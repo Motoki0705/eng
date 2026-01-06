@@ -110,4 +110,4 @@ getting too little rest on a regular basis is likely to have serious consequence
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/5_不定詞構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/5_不定詞構文/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/5_不定詞構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/5_不定詞構文/pair_001/knowledge.md) |

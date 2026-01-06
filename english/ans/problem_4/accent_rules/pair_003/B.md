@@ -108,4 +108,4 @@
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_4/accent_rules/pair_003/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_4/accent_rules/pair_003/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_4/accent_rules/pair_003/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_4/accent_rules/pair_003/knowledge.md) |

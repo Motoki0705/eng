@@ -110,4 +110,4 @@ without paying some price in terms of pollution
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Aに戻る](../../../tests/problem_1/8_比較構文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_1/8_比較構文/pair_001/B.md) |
+| ← [問題Aに戻る](../../../../tests/problem_1/8_比較構文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../../tests/problem_1/8_比較構文/pair_001/B.md) |

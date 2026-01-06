@@ -112,4 +112,4 @@ it would be foolish of anyone to assume that...
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Aに戻る](../../../tests/problem_1/5_不定詞構文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_1/5_不定詞構文/pair_001/B.md) |
+| ← [問題Aに戻る](../../../../tests/problem_1/5_不定詞構文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../../tests/problem_1/5_不定詞構文/pair_001/B.md) |

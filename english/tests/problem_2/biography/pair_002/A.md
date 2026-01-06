@@ -37,4 +37,4 @@ Mandela established the Truth and Reconciliation Commission, which gave victims 
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [knowledge.md](../../../ans/problem_2/biography/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_002/A.md) |
+| ← [knowledge.md](../../../../ans/problem_2/biography/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../../ans/problem_2/biography/pair_002/A.md) |

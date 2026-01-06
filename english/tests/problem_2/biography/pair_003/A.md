@@ -38,4 +38,4 @@ Jobs was known for his demanding perfectionism and his ability to inspire both d
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [knowledge.md](../../../ans/problem_2/biography/pair_003/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_003/A.md) |
+| ← [knowledge.md](../../../../ans/problem_2/biography/pair_003/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../../ans/problem_2/biography/pair_003/A.md) |

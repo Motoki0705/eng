@@ -38,4 +38,4 @@ The commercial implications of microbiome research have not gone unnoticed. Nume
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [knowledge.md](../../../ans/problem_2/science_technology/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_2/science_technology/pair_002/A.md) |
+| ← [knowledge.md](../../../../ans/problem_2/science_technology/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../../ans/problem_2/science_technology/pair_002/A.md) |

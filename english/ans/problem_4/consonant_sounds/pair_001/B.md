@@ -132,4 +132,4 @@
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_4/consonant_sounds/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_4/consonant_sounds/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_4/consonant_sounds/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_4/consonant_sounds/pair_001/knowledge.md) |

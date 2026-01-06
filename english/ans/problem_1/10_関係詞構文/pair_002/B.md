@@ -112,4 +112,4 @@ Today, however, cities are designed with careful attention to parks and gardens
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/10_関係詞構文/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/10_関係詞構文/pair_002/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/10_関係詞構文/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/10_関係詞構文/pair_002/knowledge.md) |

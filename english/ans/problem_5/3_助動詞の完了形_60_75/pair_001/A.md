@@ -158,4 +158,4 @@ We **should** **have** **started** earlier. Now it's too late.
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Aに戻る](../../../tests/problem_5/3_助動詞の完了形_60_75/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_5/3_助動詞の完了形_60_75/pair_001/B.md) |
+| ← [問題Aに戻る](../../../../tests/problem_5/3_助動詞の完了形_60_75/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../../tests/problem_5/3_助動詞の完了形_60_75/pair_001/B.md) |

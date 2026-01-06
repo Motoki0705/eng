@@ -53,4 +53,4 @@
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [knowledge.md](../../../ans/problem_4/accent_rules/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_4/accent_rules/pair_001/A.md) |
+| ← [knowledge.md](../../../../ans/problem_4/accent_rules/pair_001/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../../ans/problem_4/accent_rules/pair_001/A.md) |

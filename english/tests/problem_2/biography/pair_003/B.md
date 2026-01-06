@@ -37,4 +37,4 @@ Despite her busy schedule of activism and public speaking, Malala continued her 
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [解答Aに戻る](../../../ans/problem_2/biography/pair_003/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/biography/pair_003/B.md) |
+| ← [解答Aに戻る](../../../../ans/problem_2/biography/pair_003/A.md) | 📝 B.md（問題） | [解答を見る →](../../../../ans/problem_2/biography/pair_003/B.md) |

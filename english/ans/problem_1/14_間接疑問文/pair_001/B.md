@@ -119,4 +119,4 @@ has proven to be far more complicated than scientists initially expected
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/14_間接疑問文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/14_間接疑問文/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/14_間接疑問文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/14_間接疑問文/pair_001/knowledge.md) |

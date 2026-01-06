@@ -162,4 +162,4 @@ The new factory is **three** **times** **as** **large** **as** the old one.
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_5/8_比較・特殊な前置詞_179_427/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_5/8_比較・特殊な前置詞_179_427/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_5/8_比較・特殊な前置詞_179_427/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_5/8_比較・特殊な前置詞_179_427/pair_001/knowledge.md) |

@@ -14,4 +14,4 @@ The art of negotiation requires both skill and patience. Many business deals fai
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [knowledge.md](../../../ans/problem_1/5_不定詞構文/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../ans/problem_1/5_不定詞構文/pair_002/A.md) |
+| ← [knowledge.md](../../../../ans/problem_1/5_不定詞構文/pair_002/knowledge.md) | 📝 A.md（問題） | [解答を見る →](../../../../ans/problem_1/5_不定詞構文/pair_002/A.md) |

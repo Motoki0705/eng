@@ -37,4 +37,4 @@ Environmental concerns have also emerged regarding space activities. The growing
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [解答Aに戻る](../../../ans/problem_2/science_technology/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../ans/problem_2/science_technology/pair_001/B.md) |
+| ← [解答Aに戻る](../../../../ans/problem_2/science_technology/pair_001/A.md) | 📝 B.md（問題） | [解答を見る →](../../../../ans/problem_2/science_technology/pair_001/B.md) |

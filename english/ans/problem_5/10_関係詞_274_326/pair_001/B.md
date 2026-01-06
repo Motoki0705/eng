@@ -162,4 +162,4 @@ This is the town **that** **we** **visited** **last year**.
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_5/10_関係詞_274_326/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_5/10_関係詞_274_326/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_5/10_関係詞_274_326/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_5/10_関係詞_274_326/pair_001/knowledge.md) |

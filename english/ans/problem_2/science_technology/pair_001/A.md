@@ -58,4 +58,4 @@
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Aに戻る](../../../tests/problem_2/science_technology/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_2/science_technology/pair_001/B.md) |
+| ← [問題Aに戻る](../../../../tests/problem_2/science_technology/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../../tests/problem_2/science_technology/pair_001/B.md) |

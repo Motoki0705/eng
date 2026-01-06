@@ -62,4 +62,4 @@
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_2/social_science/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_2/social_science/pair_002/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_2/social_science/pair_002/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_2/social_science/pair_002/knowledge.md) |

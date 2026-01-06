@@ -123,4 +123,4 @@ remains a matter of intense debate
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Aに戻る](../../../tests/problem_1/14_間接疑問文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../tests/problem_1/14_間接疑問文/pair_001/B.md) |
+| ← [問題Aに戻る](../../../../tests/problem_1/14_間接疑問文/pair_001/A.md) | ✅ A.md（解答） | [問題Bへ →](../../../../tests/problem_1/14_間接疑問文/pair_001/B.md) |

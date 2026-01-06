@@ -110,4 +110,4 @@ that children can master complex grammatical rules without any formal instructio
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/10_関係詞構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/10_関係詞構文/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/10_関係詞構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/10_関係詞構文/pair_001/knowledge.md) |

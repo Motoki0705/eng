@@ -112,4 +112,4 @@ has become a major focus of marketing research
 
 | 前のステップ | 現在 | 次のステップ |
 |-------------|------|-------------|
-| ← [問題Bに戻る](../../../tests/problem_1/8_比較構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../ans/problem_1/8_比較構文/pair_001/knowledge.md) |
+| ← [問題Bに戻る](../../../../tests/problem_1/8_比較構文/pair_001/B.md) | ✅ B.md（解答） | [復習する →](../../../../ans/problem_1/8_比較構文/pair_001/knowledge.md) |
