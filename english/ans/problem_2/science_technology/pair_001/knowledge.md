@@ -1,0 +1,188 @@
+# 📖 科学・技術長文の読み方：「仕組み」を理解する
+
+## 🔬 なぜ科学技術の文章は難しく感じるのか？
+
+科学・技術の長文が難しいと感じる理由は、**専門用語**と**プロセスの説明**にあります。でも実は、科学文章は**論理が最も明確**で、慣れれば読みやすいジャンルです。
+
+なぜなら：
+- 曖昧な表現を避ける
+- 因果関係が明示される
+- 時間的順序が重要
+
+---
+
+## 🧪 専門用語の攻略法
+
+### 1. 定義文を探す
+
+科学文章では、専門用語の後に**定義**が示されることが多いです：
+
+> **Photosynthesis**, *the process by which plants convert sunlight into energy*, is essential for life on Earth.
+
+カンマで挟まれた部分が定義です。同格構文（第10章関係詞で学習）が使われています。
+
+### 2. 語源から推測
+
+| 接頭辞・接尾辞 | 意味 | 例 |
+|--------------|------|-----|
+| bio- | 生命 | biology, biodegradable |
+| photo- | 光 | photograph, photosynthesis |
+| -ology | 学問 | biology, psychology |
+| -tion/-sion | 名詞化 | production, conclusion |
+| anti- | 反対 | antibody, antibiotic |
+
+---
+
+## 📈 プロセスの記述パターン
+
+### 順序を示す表現
+
+科学的プロセスは**段階的**に説明されます：
+
+| 段階マーカー | 意味 |
+|------------|------|
+| First, Initially | まず |
+| Then, Next | 次に |
+| Subsequently | その後 |
+| Finally, Eventually | 最終的に |
+| As a result | 結果として |
+
+これらを追えば、複雑なプロセスも理解できます。
+
+---
+
+## ⚗️ 実験の記述構造
+
+### 科学論文の典型構造
+
+| セクション | 内容 |
+|-----------|------|
+| Background | 背景・問題提起 |
+| Method | 実験方法 |
+| Results | 結果 |
+| Conclusion | 結論・考察 |
+
+入試長文でもこの構造が使われます。**Results**と**Conclusion**を区別することが重要です。
+
+---
+
+## 🔄 受動態の多用
+
+### なぜ科学文章は受動態が多いのか？
+
+科学では**客観性**が重視されるため、「誰が」を隠す受動態が好まれます：
+
+| 能動態 | 受動態（科学的） |
+|--------|---------------|
+| We heated the solution. | The solution **was heated**. |
+| Scientists discovered... | It **was discovered** that... |
+| Researchers found... | It **has been found** that... |
+
+受動態を能動態に戻して理解すると、主語が明確になります。
+
+---
+
+## 📊 比較・対照の構文
+
+### 科学での比較表現
+
+| 構文 | 意味 |
+|------|------|
+| A is more efficient **than** B | AはBより効率的 |
+| **Unlike** A, B is... | Aと異なり、Bは... |
+| **In contrast to** A, B... | Aと対照的に、B... |
+| A is similar **to** B **in that**... | AはBと似ている点は... |
+
+比較構文（第8章）が重要です。
+
+---
+
+## 🎯 選択肢の引っ掛けパターン
+
+### 科学長文特有の罠
+
+1. **プロセスの順序逆転**
+   - 本文：A → B → C
+   - 誤選択肢：A → C → B
+
+2. **条件の無視**
+   - 本文：Under certain conditions, X occurs.
+   - 誤選択肢：X always occurs.
+
+3. **部分と全体**
+   - 本文：Some cells respond to the treatment.
+   - 誤選択肢：All cells respond to the treatment.
+
+---
+
+## 🔢 単位と数値
+
+### 科学文章での数字の扱い
+
+| 表現 | 意味 |
+|------|------|
+| approximately | 約 |
+| nearly | ほぼ |
+| up to | 最大で |
+| at least | 少なくとも |
+| more than | 〜以上 |
+
+「at least 50%」と「approximately 50%」では意味が違います！
+
+---
+
+## 💡 この単元で習得する感覚
+
+| 文法事項 | 科学文章での役割 |
+|---------|----------------|
+| 受動態 | 客観性の表現 |
+| 同格構文 | 専門用語の定義 |
+| 比較構文 | 実験結果の比較 |
+| 条件文 | 仮説と条件の提示 |
+
+---
+
+## 📚 豆知識：科学英語の「客観性」
+
+科学論文では、**I think**（私は思う）という表現はほぼ使われません。代わりに：
+
+| 主観的 | 客観的（科学的） |
+|--------|----------------|
+| I believe | The data suggests |
+| We found | It was found |
+| In my opinion | Evidence indicates |
+
+この客観的な文体を理解すると、著者の主張と実験結果を区別しやすくなります。
+
+---
+
+## 🧬 生命科学の頻出テーマ
+
+福岡大学の過去問では、以下のテーマが出題されています：
+
+| 年度 | テーマ |
+|------|--------|
+| 2024 | ゾウの鳴き声とコミュニケーション |
+| 2022 | ハイイロオオカミの保護 |
+| 2020 | 動物の行動学 |
+
+動物・環境・医療が頻出です。
+
+---
+
+## ✅ 確認ポイント
+
+□ 専門用語の定義を見つけられるか？
+□ プロセスの順序を正確に追えるか？
+□ 受動態を能動態に戻して理解できるか？
+□ 条件付きの記述と断言を区別できるか？
+
+---
+
+> 💭 **考えてみよう**
+>
+> 次の文の構造を分析してください：
+>
+> > Photosynthesis, **which occurs in the chloroplasts**, converts light energy into chemical energy.
+>
+> 関係詞節「which occurs in the chloroplasts」は**非制限用法**（カンマ付き）で、光合成についての追加情報を与えています。主動詞は「converts」です。長い文でも、主語と動詞を見つければ核心が分かります。

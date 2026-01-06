@@ -13,6 +13,9 @@
 
 ⚠️ 前置詞の後には動名詞（to不定詞は不可）
 
+> 🔑 **これが動名詞マスターへの第一歩！**
+> 前置詞（in, on, at, for, about, of など）の後ろは**必ず名詞**。だから動詞を置きたいときは「動名詞（-ing形）」に変えて名詞化するのです。"interested in to learn" は文法的にあり得ません！
+
 ---
 
 ### 2. 完了動名詞 (No. 137)
@@ -23,6 +26,9 @@ having + 過去分詞「〜したこと」（述語動詞より前の時を表�
 
 **例**: He denied **having seen** her.（彼女に会ったことを否定した）
 **例**: I'm proud of **having won** the prize.（賞を取ったことを誇りに思う）
+
+> ⏰ **時制のズレを表現する動名詞版**
+> 完了不定詞（to have done）と同じ発想！「今」の視点から「過去」を語るとき、having + 過去分詞で時間差を明示します。"He denied seeing her" でも通じますが、より正確に時間関係を示すなら完了動名詞！
 
 ---
 
@@ -35,6 +41,9 @@ It is no use doing = There is no use (in) doing
 ```
 
 **例**: **It is no use** crying over spilt milk.（覆水盆に返らず）
+
+> 🥛 **有名なことわざ！**
+> "Don't cry over spilt milk" の変形版。こぼれたミルクを嘆いても仕方ない＝過去は変えられない。西洋文化でも日本の「覆水盆に返らず」と同じ発想があるのが面白いですね！
 
 #### There is no point (in) doing (No. 140)
 ```
@@ -50,6 +59,9 @@ There is no doing「〜することはできない」
 
 **例**: **There is no** accounting for tastes.（蓼食う虫も好き好き）
 
+> 🌍 **「趣味は説明できない」が直訳！**
+> 蓼（たで）という苦い草を好んで食べる虫がいるように、人の好みは理屈では説明できない。ラテン語の "De gustibus non est disputandum"（趣味については議論するな）から来ています。
+
 ---
 
 ### 4. to + 動名詞の慣用表現
@@ -63,6 +75,9 @@ look forward to doing「〜することを楽しみにする」
 
 ⚠️ to は前置詞なので、後ろは **doing**（✕ to see）
 
+> 🚨 **最頻出の引っかけ問題！**
+> "I look forward to see you" は間違い！forward to の to は不定詞ではなく前置詞。前置詞の後は名詞＝動名詞。ビジネスメールの結びでよく使う表現なので、社会に出ても役立ちます。
+
 #### be used to doing (No. 143)
 ```
 be used to doing「〜することに慣れている」
@@ -71,6 +86,13 @@ used to do「かつて〜していた」
 
 **例**: I **am used to getting** up early.（早起きに慣れている）
 **例**: I **used to get** up late.（かつて遅く起きていた）
+
+> 🆚 **混同注意！3つの used to**
+> | 表現 | 意味 | 例 |
+> |-----|-----|-----|
+> | used to do | かつて〜した | I used to play tennis. |
+> | be used to doing | 〜に慣れている | I'm used to waking up early. |
+> | be used to do | 〜するために使われる | This tool is used to cut wood. |
 
 #### when it comes to doing (No. 146)
 ```
@@ -87,6 +109,9 @@ What do you say to doing?「〜するのはどうですか」
 
 **例**: **What do you say to** going for a walk?
 
+> 💬 **丁寧な提案表現**
+> 直訳は「〜することに何と言いますか？」。相手の意見を尊重しながら提案する、大人な表現です。
+
 ---
 
 ### 5. have difficulty/trouble (in) doing (No. 148, 149)
@@ -97,6 +122,14 @@ have trouble (in) doing「〜するのに困る」
 ```
 
 **例**: I **had difficulty (in) finding** his house.（彼の家を見つけるのに苦労した）
+
+> 📝 **類似表現まとめ**
+> - have difficulty (in) doing
+> - have trouble (in) doing  
+> - have a hard time (in) doing
+> - have problems (in) doing
+> 
+> すべて「〜するのに苦労する」。in は省略可能！
 
 ---
 

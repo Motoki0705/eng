@@ -15,6 +15,9 @@ If S + 過去形 ..., S + would/could/might + 原形 ...
 
 ⚠️ be動詞は主語に関わらず **were** を使うのが正式。
 
+> 🤔 **なぜ「過去形」なのに現在の話？**
+> 仮定法の「過去形」は時間の過去ではなく、**「現実からの距離」**を表しています。過去形を使うことで「これは現実じゃないよ」と示すのです。日本語の「もし〜だったら」と似た感覚ですね。言語学では「距離を置く」ための文法手段と呼ばれています。
+
 ---
 
 ### 2. 仮定法過去完了 (No. 80)
@@ -27,6 +30,10 @@ If S + had + 過去分詞 ..., S + would/could/might + have + 過去分詞 ...
 
 **例**: **If** I **had studied** harder, I **would have passed** the exam.
 （もっと勉強していたら、試験に受かっていただろうに → 実際は勉強しなかった）
+
+> 💭 **歴史のifを考える**
+> "If Napoleon had won at Waterloo..."（もしナポレオンがワーテルローで勝っていたら...）
+> 歴史好きが大好きな「もしも」の議論は、まさに仮定法過去完了！過去に戻って「別の選択をしていたら」と考える、人間ならではの思考実験です。
 
 ---
 
@@ -46,6 +53,9 @@ S wish + S' + had + 過去分詞「〜だったらよかったのに」
 
 **例**: I **wish** I **had studied** harder.（もっと勉強していたらよかった）
 
+> 🎵 **名曲で覚える wish**
+> ビートルズの "I wish I was a child again"、スティービー・ワンダーの "I Wish" — 仮定法を使った名曲は数えきれません。「叶わない願い」を歌うときは自然と仮定法になるのです。
+
 ---
 
 ### 4. It is time + 仮定法過去 (No. 90)
@@ -57,6 +67,9 @@ It is high time + S + 過去形「とっくに〜すべきだ」
 
 **例**: It is time you **went** to bed.（もう寝る時間だ）
 **例**: It is high time we **left**.（もう出発すべき時間だ）
+
+> ⏰ **「high time」の強調**
+> "high" がつくと「もうとっくに過ぎてるよ！」という焦りが加わります。親が子供に "It's high time you cleaned your room!" と言ったら、かなり怒っている証拠。
 
 ---
 
@@ -79,6 +92,15 @@ if it had not been for A「Aがなかったら」
 **例**: **If it had not been for** your help, I would have failed.
 （あなたの助けがなかったら、失敗していただろう）
 
+> 🌍 **3つの言い方を制覇！**
+> | 現在 | 過去 |
+> |-----|-----|
+> | If it were not for A | If it had not been for A |
+> | Without A | Without A |
+> | But for A | But for A |
+> 
+> どれも同じ意味ですが、文章のリズムや堅さで使い分けます。エッセイでは variety のために交互に使うとGood！
+
 ---
 
 ### 6. if の省略と倒置 (No. 95)
@@ -94,6 +116,9 @@ If S should do ... → Should S do ...
 
 **例**: **Had I** known the truth, I would have told you.
 （= If I had known the truth）
+
+> 📚 **文学的で格調高い！**
+> if の省略と倒置は、フォーマルな文書や文学作品で使われます。"Had I but known..."（もし知っていたなら...）は小説や詩でよく見かける表現。入試の英作文で使えば「おっ、この受験生やるな」と思わせる効果も！
 
 ---
 
