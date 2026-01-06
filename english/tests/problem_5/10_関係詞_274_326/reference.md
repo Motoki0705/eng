@@ -11,6 +11,19 @@
 | 300 | 関係代名詞 what | A.md (D), B.md (D) |
 | 303 | what little/few A | A.md (A), B.md (B) |
 
+## pair_002
+**使用済みNo.**: 277, 295, 296, 297, 298, 305, 308
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 277 | 目的格関係代名詞の省略 | B.md (D) |
+| 295 | , A of whom | A.md (A) |
+| 296 | , neither of which | B.md (A) |
+| 297 | 前文全体が先行詞—which | A.md (D) |
+| 298 | 前文の一部が先行詞—which | A.md (C) |
+| 305 | what S was / used to be | A.md (B), B.md (B) |
+| 308 | what is/was worse | B.md (C) |
+
 ## 未使用No.（関係詞で重要なもの）
 - 274-278: 主格・目的格の関係代名詞
 - 280-284: 非制限用法

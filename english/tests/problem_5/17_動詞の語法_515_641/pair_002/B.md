@@ -1,0 +1,39 @@
+福岡大学〔Ⅴ〕の形式に合わせた、**動詞の語法**に関する練習問題です。
+
+---
+
+## 問題
+
+次の日本語の意味を表す英文を完成させなさい。与えられた7語のうち、6語を使って答えなさい。（1語不要）
+
+---
+
+**A.** 私はその少年に私の写真を撮ってもらった。
+
+I (  )(  )(  )(  )(  )(  ) of me.
+
+① a ② get ③ got ④ boy ⑤ the ⑥ take ⑦ to
+
+---
+
+**B.** 彼は彼女にドアを開けさせた。
+
+He (  )(  )(  )(  )(  )(  ) door.
+
+① to ② had ③ her ④ the ⑤ open ⑥ let ⑦ opening
+
+---
+
+**C.** その事故が私に安全運転の大切さを痛感させた。
+
+The (  )(  )(  )(  )(  )(  ) safe driving.
+
+① the ② realize ③ of ④ accident ⑤ caused ⑥ to ⑦ importance
+
+---
+
+**D.** 医者は彼に禁煙するよう忠告した。
+
+The (  )(  )(  )(  )(  )(  ) smoking.
+
+① stop ② him ③ to ④ doctor ⑤ advised ⑥ for ⑦ to

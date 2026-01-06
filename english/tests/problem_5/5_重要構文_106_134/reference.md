@@ -12,6 +12,19 @@
 | 376 | not only A but also B | A.md (B) |
 | 813 | have no choice but to do | A.md (C) |
 
+## pair_002
+**使用済みNo.**: 114, 121, 124, 125, 131, 132, 146
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 114 | not to do | A.md (A) |
+| 121 | ... enough to do | B.md (B) |
+| 124 | in order to do | A.md (C) |
+| 125 | so as not to do | B.md (A) |
+| 131 | be + to 不定詞（意図・目的） | B.md (D) |
+| 132 | to say nothing of A | B.md (C) |
+| 146 | when it comes to doing | A.md (D) |
+
 ## 未使用No.（重要構文で出題可能なもの）
 - 121: ... enough to do
 - 123: so ... as to do

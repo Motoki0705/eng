@@ -12,6 +12,17 @@
 | 390 | 経過を表す in | B.md (C) |
 | 393-394 | by「...までに」 | A.md (D) |
 
+## pair_002
+**使用済みNo.**: 192, 200, 203, 207, 210
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 192 | the + 比較級, the + 比較級 | A.md (B), B.md (B) |
+| 200 | not less than A | B.md (A) |
+| 203 | B rather than A | A.md (C), B.md (D) |
+| 207 | be senior/junior to A | A.md (A), B.md (C) |
+| 210 | by far + 最上級 | A.md (D) |
+
 ## 未使用No.（比較で重要なもの）
 - 179-180: 原級比較の基本
 - 182-183: twice the + 名詞 + of A

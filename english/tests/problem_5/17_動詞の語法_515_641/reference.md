@@ -13,18 +13,38 @@
 | 554 | persuade A to do | A.md (D) |
 | 556 | encourage A to do | B.md (A) |
 
+## pair_002
+**使用済みNo.**: 541, 542, 545, 550, 552, 553, 555, 558
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 541 | get A to do | B.md (A) |
+| 542 | have A do | B.md (B) |
+| 545 | let A do | A.md (A) |
+| 550 | allow A to do | A.md (B) |
+| 552 | ask A to do | A.md (D) |
+| 553 | advise A to do | B.md (D) |
+| 555 | cause A to do | B.md (C) |
+| 558 | force A to do | A.md (C) |
+
+## pair_003
+**使用済みNo.**: 598, 600, 604, 606, 610, 618, 620
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 598 | remind A of B | A.md (A), B.md (D) |
+| 600 | remind A to do | A.md (B) |
+| 604 | prevent A from doing | A.md (C) |
+| 606 | prohibit A from doing | A.md (D) |
+| 610 | blame A for B | B.md (A) |
+| 618 | help A do | B.md (B) |
+| 620 | match A | B.md (C) |
+
 ## 未使用No.（動詞の語法で重要なもの）
-- 541: get A to do
-- 542: have A do
 - 544: get A done
-- 545: let A do
 - 547: see A do
 - 549: let A do（have one's own way）
-- 550: allow A to do
-- 552: ask A to do
-- 555: cause A to do
 - 557: compel A to do
-- 558: force A to do
 - 559: suggest that S (should) + 原形
 - 560: propose that S (should) + 原形
 - 561: recommend that S (should) + 原形

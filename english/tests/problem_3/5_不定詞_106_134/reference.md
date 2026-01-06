@@ -19,20 +19,32 @@
 | 132 | to say nothing of A | A.md (e) |
 | 134 | needless to say | B.md (h) |
 
+## pair_002
+**使用済みNo.**: 108, 112, 115, 117, 119, 120, 121, 124, 125, 129, 130, 132, 134
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 108 | S+V+it+C+to do | A.md (a), B.md (a) |
+| 112 | 副詞用法（結果）wake up to find / live to do | A.md (b), B.md (b) |
+| 115 | for A to do | A.md (c) |
+| 117 | It is ... of A to do | B.md (c) |
+| 119 | 代不定詞 not to | A.md (d) |
+| 120 | too...for A to do | B.md (d) |
+| 121 | enough to do | A.md (e), B.md (e) |
+| 124 | in order to do | B.md (f) |
+| 125 | so as not to do | A.md (f) |
+| 129 | be to 不定詞（予定） | B.md (g) |
+| 130 | be to 不定詞（可能） | A.md (g) |
+| 132 | to say nothing of A | B.md (h) |
+| 134 | needless to say | A.md (h) |
+
 ## 未使用No.
 - 107: 疑問詞 + to do
-- 108: S+V+it+C+to do
 - 109: 形容詞用法の不定詞（前置詞が残る場合）
 - 111: 副詞用法の不定詞（形容詞の意味の限定）
 - 114: 不定詞を否定する語（not to do）
-- 115: 不定詞の意味上の主語（for A to do）
 - 116: S+V+it+C+for A to do
-- 119: 代不定詞
 - 123: so ... as to do = ... enough to do
-- 124: in order to do / so as to do
-- 125: so as not to do / in order not to do
 - 127: 原形不定詞→受動態では to 不定詞
-- 129: be + to 不定詞（予定・運命）
-- 130: be + to 不定詞（可能）
 - 131: be + to 不定詞（意図・目的）
 - 133: to say the least (of it)
