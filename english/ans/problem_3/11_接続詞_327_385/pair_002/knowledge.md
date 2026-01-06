@@ -11,6 +11,9 @@ not A but B「AではなくB」
 
 **例**: He is **not** a teacher **but** a doctor.
 
+> 🎯 **対比を際立たせる表現**
+> 「教師ではなく医者だ」と明確に否定→肯定の流れを作ります。プレゼンや議論で相手の誤解を正すときに効果的！
+
 #### either A or B (No. 335)
 ```
 either A or B「AかBかどちらか」
@@ -20,12 +23,24 @@ either A or B「AかBかどちらか」
 
 ⚠️ 動詞は**B（後ろの主語）に一致**させる。
 
+> 🎲 **「二択」を表す either or**
+> 「どちらか一方」を表すので、必然的に選択を迫るニュアンスに。ultimatum（最後通牒）的な場面でよく使われます。
+
 #### neither A nor B（復習）(No. 336)
 ```
 neither A nor B「AもBもどちらも〜ない」
 ```
 
 **例**: **Neither** Tom **nor** I **am** going to the party.
+
+> 📊 **相関接続詞と動詞の一致まとめ**
+> | 表現 | 動詞の一致 |
+> |-----|----------|
+> | both A and B | 常に複数 |
+> | either A or B | Bに一致 |
+> | neither A nor B | Bに一致 |
+> | not A but B | Bに一致 |
+> | not only A but also B | Bに一致 |
 
 ---
 
@@ -43,6 +58,9 @@ neither A nor B「AもBもどちらも〜ない」
 **例**: The **fact that** he passed the exam surprised us.
 **例**: I have no **idea that** she was married.
 
+> 💡 **「抽象名詞 + that」のパターン**
+> 同格の that を取れる名詞は「情報」「考え」「可能性」など**抽象的な概念**を表すもの。具体的な物（book, car など）には使えません。
+
 #### if「〜かどうか」(No. 339)
 ```
 if + S + V「〜かどうか」
@@ -52,12 +70,22 @@ if + S + V「〜かどうか」
 
 ⚠️ **if は文頭の名詞節には使えない**。その場合は whether を使う。
 
+> 🚫 **if が使えない場所**
+> 1. 文頭の主語：✕ If he will come is uncertain.
+> 2. 前置詞の目的語：✕ I'm worried about if he'll come.
+> 3. 直接話法の後：✕ Tell me if or not...
+> 
+> これらは全て **whether** を使う！
+
 #### Whether ... or ~ (No. 340)
 ```
 Whether S + V or not「〜かどうか」（文頭でも可）
 ```
 
 **例**: **Whether** he will come **or not** is uncertain.
+
+> 🔄 **whether は万能選手！**
+> if が使えない場所でも whether は OK。迷ったら whether を使えば安全！
 
 ---
 
@@ -70,6 +98,9 @@ It is + 時間 + since + S + 過去形「〜してから（時間）がたつ」
 
 **例**: **It is** ten years **since** I came to Japan.
 
+> ⏰ **経過時間を語る定番表現**
+> "Ten years have passed since..." とも言えますが、"It is ... since ..." の方がシンプルでよく使われます。
+
 #### It was not long before ... (No. 346)
 ```
 It was not long before + S + 過去形「まもなく〜した」
@@ -77,12 +108,18 @@ It was not long before + S + 過去形「まもなく〜した」
 
 **例**: **It was not long before** he realized his mistake.
 
+> 🕐 **「長くなかった」→「すぐに」**
+> 直訳は「〜する前に長くはなかった」。二重否定的な発想で「すぐに〜した」という意味に。小説の narrative でよく使われる文学的表現。
+
 #### by the time ... (No. 349)
 ```
 by the time + S + V「〜する時までに」
 ```
 
 **例**: **By the time** I arrived, the party was over.
+
+> ⚡ **「間に合わなかった」ニュアンス**
+> by the time は「〜する頃には（もう）」という、少し遅れた感じを暗示することが多い。
 
 #### Hardly had S done ... when ~ (No. 356)
 ```
@@ -97,6 +134,15 @@ Hardly had S + 過去分詞 ... when + S + 過去形
 同義表現：
 - No sooner had S + 過去分詞 ... than ~
 - Scarcely had S + 過去分詞 ... when/before ~
+
+> 🎭 **ドラマチックな「〜するやいなや」**
+> | 構文 | 接続詞 |
+> |-----|-------|
+> | Hardly had S done ... | when |
+> | No sooner had S done ... | than |
+> | Scarcely had S done ... | when/before |
+> 
+> 覚え方：**「H-W, N-T, S-W/B」**（ハードリーはwhen、ノースーナーはthan、スケアスリーはwhenかbefore）
 
 ---
 

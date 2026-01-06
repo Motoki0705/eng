@@ -10,6 +10,12 @@
 
 福岡大学では2024年（Duke Kahanamoku）、2023年（Ursula K. Le Guin）、2019年（Floyd Norman）、2007年（The Beatles）と、伝記長文が頻出しています。
 
+### 🎭 なぜ人は他人の人生に興味を持つのか？
+
+心理学では、伝記への興味を**「代理経験」**と呼びます。私たちは他者の人生を追体験することで、自分では経験できない冒険、成功、失敗を「生きる」ことができます。
+
+アリストテレスは「物語は人生のシミュレーションである」と言いました。伝記長文を読むとき、あなたは単に英語を学んでいるのではなく、**別の人生を体験している**のです。
+
 ---
 
 ## 🧭 伝記長文の構造パターン
@@ -132,6 +138,19 @@
 伝記でよく使われる表現をストックしておくと読解がスムーズ：
 
 | 表現 | 意味 | 例 |
+
+### 🔮 「無名」から「有名」への転換点
+
+伝記長文には、必ず**転換点（turning point）**があります。この瞬間を見逃さないでください：
+
+| 転換点を示す表現 | 例 |
+|----------------|-----|
+| breakthrough | His **breakthrough** came in 1923. |
+| turning point | The **turning point** of his career |
+| changed everything | That day **changed everything**. |
+| never the same | His life was **never the same** after... |
+
+人生の転換点は、物語の**クライマックス**です。選択肢でもこの部分が問われやすいので、注意深く読みましょう。
 |------|------|-----|
 | was born into | 〜の家庭に生まれた | was born into a wealthy family |
 | grew up to be | 成長して〜になった | grew up to be a famous artist |

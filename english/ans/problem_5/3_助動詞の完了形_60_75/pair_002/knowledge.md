@@ -11,6 +11,12 @@ might have done「〜したかもしれない」（may have done よりやや控
 **例**: He **might have forgotten** the appointment.
 （彼は約束を忘れたかもしれない）
 
+> 🎯 **may vs might の確信度**
+> - may have done → 50%くらいの可能性
+> - might have done → 30%くらいの可能性（より控えめ）
+> 
+> might は「距離を置く」ニュアンス。仮定法の過去形と同じ感覚です。
+
 **仮定法での用法**:
 ```
 If S had done ..., S might have done「〜だったら、〜したかもしれない」
@@ -18,6 +24,14 @@ If S had done ..., S might have done「〜だったら、〜したかもしれ�
 
 **例**: If I had studied harder, I **might have passed** the exam.
 （もっと勉強していたら、受かったかもしれない）
+
+> 🔮 **仮定法過去完了の公式**
+> ```
+> If S had p.p. ..., S would/could/might have p.p.
+> ```
+> - would have done → 〜しただろう（高確率）
+> - could have done → 〜できただろう（能力・可能性）
+> - might have done → 〜したかもしれない（低確率）
 
 ---
 
@@ -31,6 +45,19 @@ ought to have done「〜すべきだった（のにしなかった）」
 （もっと早く来るべきだった）
 
 ⚠️ should have done とほぼ同じ意味だが、ought to の方がやや堅い表現。
+
+> 🇬🇧🇺🇸 **イギリス vs アメリカ**
+> - イギリス英語: ought to をよく使う
+> - アメリカ英語: should をよく使う
+> 
+> ハリー・ポッターなどイギリスの作品では "You ought to..." がよく登場します！
+
+> ⚠️ **語順の罠に注意！**
+> ```
+> ✕ ought have to done
+> ○ ought to have done
+> ```
+> 「to」の位置を間違えやすい！整序問題で頻出のひっかけポイントです。
 
 ---
 
@@ -51,6 +78,26 @@ It is necessary/important/essential that S (should) + 原形
 
 ⚠️ アメリカ英語では should を省略し、原形を使うことが多い。
 
+> 🏛️ **なぜ「原形」を使うの？**
+> これは「仮定法現在」と呼ばれる古い英語の名残。「〜すべき」「〜であってほしい」という**願望・要求**を表すため、事実ではなく「あるべき姿」を示す原形が使われます。
+> 
+> ラテン語やフランス語にも同様の文法があり、英語はその影響を受けています。
+
+> 💡 **覚えるべき形容詞：必・要・大・緊・望**
+> - necessary（必要な）
+> - essential/vital（不可欠な）
+> - important（重要な）
+> - urgent（緊急の）
+> - desirable（望ましい）
+> 
+> これらの形容詞の後は that S (should) + 原形！
+
+> 🇺🇸🇬🇧 **アメリカ vs イギリス**
+> - アメリカ英語: It is important that he **be** there.（should 省略）
+> - イギリス英語: It is important that he **should be** there.（should あり）
+> 
+> どちらも正しいですが、整序問題では should がある場合もない場合もあるので注意！
+
 ---
 
 ### 4. cannot ... too ~ (No. 70)
@@ -65,8 +112,28 @@ cannot ... too ~「いくら〜してもしすぎることはない」
 **例**: We **cannot emphasize** the importance of health **too** much.
 （健康の重要性はいくら強調してもしすぎることはない）
 
+> 🧠 **なぜこの意味になる？**
+> 直訳すると「〜しすぎることはできない」
+> → つまり「どんなにやっても "しすぎ" にはならない」
+> → 「いくらやってもしすぎることはない」
+> 
+> 二重否定のような論理構造です！
+
+> 🎯 **頻出パターン**
+> - cannot be too careful（注意しすぎることはない）
+> - cannot thank you too much（いくら感謝しても足りない）
+> - cannot emphasize too much（いくら強調してもしすぎることはない）
+
 **言い換え**:
 - cannot ... too ~ = cannot ... enough
+
+> 🔄 **言い換えパターン**
+> ```
+> You cannot be too careful.
+> = You cannot be careful enough.
+> = The more careful you are, the better.
+> ```
+> どれも「注意は多ければ多いほど良い」という意味！
 
 ---
 
@@ -81,11 +148,17 @@ cannot ... too ~「いくら〜してもしすぎることはない」
 
 ### 注意すべき形
 
-| 表現 | 正しい語順 |
-|-----|----------|
-| ought to have done | ⭕ ought to have done（to を忘れない） |
-| should 仮定法 | ⭕ that S (should) + 原形 |
-| cannot too | ⭕ cannot + 動詞 + too + 形容詞/副詞 |
+| 表現 | 正しい語順 | よくある間違い |
+|-----|----------|--------------|
+| ought to have done | ⭕ ought to have done | ✕ ought have to done |
+| should 仮定法 | ⭕ that S (should) + 原形 | ✕ that S should + 三単現 |
+| cannot too | ⭕ cannot + 動詞 + too + 形容詞/副詞 | ✕ cannot too + 形容詞 |
+
+> 💡 **整序問題攻略のコツ**
+> 1. まず助動詞を探す（must, should, may, might, ought to など）
+> 2. have があれば「助動詞 + have + p.p.」のセットを作る
+> 3. that があれば「It is 形容詞 that S (should) 原形」を疑う
+> 4. too があれば「cannot ... too ~」の構文を考える
 
 ---
 

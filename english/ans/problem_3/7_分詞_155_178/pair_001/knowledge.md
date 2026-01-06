@@ -13,12 +13,24 @@ doing + 名詞「〜している（名詞）」
 **例**: a **sleeping** baby（眠っている赤ちゃん）
 **例**: the man **standing** over there（向こうに立っている男性）
 
+> 📐 **前置 vs 後置のルール**
+> | 条件 | 位置 | 例 |
+> |-----|-----|-----|
+> | 分詞が1語のみ | 前置 | a sleeping baby |
+> | 分詞+他の語句 | 後置 | a baby sleeping in the bed |
+> 
+> 分詞が「重く」なったら後ろに回す！英語の「重いものは後ろ」原則です。
+
 #### 過去分詞句の後置修飾 (No. 157)
 ```
 名詞 + done ...「〜された（名詞）」
 ```
 
 **例**: the book **written** by him（彼によって書かれた本）
+
+> 🔄 **関係代名詞の省略形！**
+> "the book written by him" = "the book **which was** written by him"
+> 分詞は関係代名詞節を圧縮した形。これを理解すると、長文読解で複雑な文も解きほぐせます！
 
 ---
 
@@ -32,6 +44,10 @@ There is/are + S + done「Sが〜されている」
 **例**: **There is** a cat **sleeping** on the sofa.（ソファで猫が眠っている）
 **例**: **There are** many books **written** in English.
 
+> 🎬 **映画のト書き風表現**
+> "There was a man standing in the rain..."（雨の中、男が立っていた...）
+> 小説や脚本の情景描写でよく使われる形。読者の頭に映像を浮かばせる効果があります。
+
 ---
 
 ### 3. 補語となる分詞
@@ -44,6 +60,10 @@ S + V + doing/done（SVCの形で分詞が補語）
 **例**: He sat **reading** a book.（彼は本を読みながら座っていた）
 **例**: She looked **surprised**.（彼女は驚いているように見えた）
 
+> 🧘 **「姿勢動詞 + 分詞」のパターン**
+> sit, stand, lie, remain などの姿勢動詞と分詞の組み合わせは、「〜しながら...している」という付帯状況を表します。
+> - He sat reading. = He sat and was reading.
+
 #### 目的格補語となる分詞 (No. 162)
 ```
 S + V + O + doing「Oが〜しているのを...」
@@ -51,6 +71,12 @@ S + V + O + done「Oが〜されるのを...」
 ```
 
 **例**: I saw him **crossing** the street.（彼が通りを渡っているのを見た）
+
+> 👁️ **crossing vs cross の違い**
+> | 形 | 意味 | ニュアンス |
+> |-----|-----|----------|
+> | saw him cross | 渡るのを見た | 一部始終を目撃 |
+> | saw him crossing | 渡っているのを見た | 途中の一場面 |
 
 ---
 
@@ -64,6 +90,9 @@ make oneself heard「自分の声を届かせる」
 **例**: I couldn't **make myself understood** in English.
 （英語で自分の意思を伝えられなかった）
 
+> 🗣️ **「自分を〜された状態にする」**
+> 直訳は「自分自身を理解された状態にする」。海外旅行で英語が通じなかった経験がある人なら、この表現の切実さがわかるはず！
+
 ---
 
 ### 5. 分詞構文
@@ -76,6 +105,9 @@ Not doing ...「〜しないで」
 **例**: **Not knowing** what to do, I asked for help.
 （何をすべきかわからなかったので、助けを求めた）
 
+> ⚡ **Not の位置は分詞の直前！**
+> 動名詞の否定と同じルール。Knowing not... は文法的に誤り。
+
 #### 完了分詞構文 (No. 171)
 ```
 Having done ...「〜してから」（主節より前の時を表す）
@@ -83,6 +115,13 @@ Having done ...「〜してから」（主節より前の時を表す）
 
 **例**: **Having finished** my homework, I went out.
 （宿題を終えてから、外出した）
+
+> ⏰ **時間の前後関係を明確に！**
+> ```
+> 先：宿題を終えた（Having finished）
+> 後：外出した（went out）
+> ```
+> 完了分詞構文は「先に〜して、その後...」という時系列を明示。
 
 #### 独立分詞構文 (No. 172)
 ```
@@ -92,12 +131,18 @@ Having done ...「〜してから」（主節より前の時を表す）
 **例**: **The sun having set**, we returned home.
 （日が沈んだので、家に帰った）
 
+> 🌅 **主語が違う場合は明示！**
+> 通常の分詞構文は主節と主語が同じ。違う場合は分詞の前に主語を置いて区別。フォーマルで文学的な表現。
+
 #### 受動態の分詞構文 (No. 173)
 ```
 (Being) done ...「〜されて」
 ```
 
 **例**: **(Being) written** in easy English, the book is popular.
+
+> 💡 **Being は省略可能！**
+> Written in easy English, the book is popular. でもOK。より簡潔になります。
 （やさしい英語で書かれているので、その本は人気がある）
 
 ---

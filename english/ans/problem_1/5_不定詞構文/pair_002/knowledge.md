@@ -23,6 +23,12 @@
 
 つまり、「選択」や「判断」の文脈で使われることが多いのです。
 
+### 🎯 AI時代に考える「how to」の価値
+
+Google検索で最も多いクエリの一つは「how to」で始まる質問です。人間は常に「どうやって」を知りたがる生き物。
+
+しかしAI時代には、`how to do`（やり方を知る）より `what to do`（何をすべきか判断する）の方が価値を持つようになります。**疑問詞＋不定詞は、人間の知的活動そのものを映し出す鏡**なのです。
+
 ---
 
 ## 🔬 S+V+it+C+to do：隠れた目的語
@@ -70,6 +76,17 @@
 | 意味 | 例 |
 |------|-----|
 | 予定 | The meeting **is to be held** tomorrow. |
+
+### 🎭 歴史を変えた「運命の be to」
+
+1912年4月10日、ある船が出港しました：
+
+> The ship **was to become** the most famous maritime disaster in history.
+> （その船は、歴史上最も有名な海難事故となる運命だった）
+
+タイタニック号の話です。この `was to become` は、**当時の乗客は知らなかった未来**を読者だけが知っている、という**劇的アイロニー**を生み出します。
+
+歴史の教科書や伝記で頻出するこの構文は、**運命の残酷さ**を静かに語る力を持っています。
 | 義務 | You **are to finish** this by noon. |
 | 可能 | Not a cloud **was to be seen**. |
 | 運命 | He **was never to see** his home again. |
