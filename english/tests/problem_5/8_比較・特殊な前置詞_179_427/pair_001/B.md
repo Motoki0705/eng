@@ -1,0 +1,42 @@
+福岡大学〔Ⅴ〕の形式（整序英作文、1語不要）に合わせた、**比較・特殊な前置詞**に関する練習問題です。
+テキスト「Next Stage」の該当ポイント（比較: 179～220、前置詞: 386～427）を参考にしてください。
+
+---
+
+## 問題形式
+
+各問題において、与えられた語句を並べ替えて英文を完成させなさい。
+ただし、**7つの選択肢のうち1語は不要**です。
+解答は、与えられた語句の記号 (1)～(7) で答えなさい。
+
+---
+
+## A. このタワーはあのタワーの2倍の高さだ。
+
+This tower is (  )(  )(  )(  )(  ) that one.
+
+1. as  2. twice  3. tall  4. more  5. as  6. than  7. height
+
+---
+
+## B. 彼女は私たちにさよならさえ言わずに出発した。
+
+She left (  )(  )(  )(  ) saying goodbye.
+
+1. so  2. without  3. even  4. as  5. much  6. not  7. as
+
+---
+
+## C. 彼は1時間後に戻ってくるだろう。
+
+He will be back (  ) an hour.
+
+1. within  2. after  3. in  4. for  5. by  6. until  7. during
+
+---
+
+## D. この新しい工場は古い工場の3倍の大きさだ。
+
+The new factory is (  )(  )(  )(  )(  ) the old one.
+
+1. as  2. three  3. large  4. times  5. as  6. bigger  7. than
