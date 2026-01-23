@@ -40,12 +40,18 @@
 | 618 | help A do | B.md (B) |
 | 620 | match A | B.md (C) |
 
+## pair_004
+**使用済みNo.**: 544, 549, 557, 559, 560, 561
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 544 | get A done | A.md, B.md |
+| 549 | let A do（have one's own way） | A.md, B.md |
+| 557 | compel A to do | A.md, B.md |
+| 559 | suggest that S (should) + 原形 | A.md, B.md |
+| 560 | propose that S (should) + 原形 | A.md, B.md |
+| 561 | recommend that S (should) + 原形 | A.md, B.md |
+
 ## 未使用No.（動詞の語法で重要なもの）
-- 544: get A done
 - 547: see A do
-- 549: let A do（have one's own way）
-- 557: compel A to do
-- 559: suggest that S (should) + 原形
-- 560: propose that S (should) + 原形
-- 561: recommend that S (should) + 原形
 - 598以降: その他の動詞語法

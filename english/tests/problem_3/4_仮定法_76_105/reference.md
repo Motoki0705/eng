@@ -14,21 +14,27 @@
 | 98 | Should S do... | A.md (g), B.md (g) |
 | 101 | 副詞句 with A に仮定の意 | A.md (h), B.md (h) |
 
+## pair_002
+**使用済みNo.**: 77, 79, 81, 83, 86, 88, 91, 94
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 77 | 仮定法過去（主節 would do） | A.md, B.md |
+| 79 | 仮定法過去完了（従節） | A.md, B.md |
+| 81 | 仮定法過去・過去完了の併用形 | A.md, B.md |
+| 83 | If S were to do... | A.md, B.md |
+| 86 | S wish + 仮定法過去完了 | A.md, B.md |
+| 88 | If only + 仮定法 | A.md, B.md |
+| 91 | as if + 仮定法過去 | A.md, B.md |
+| 94 | but for A | A.md, B.md |
+
 ## 未使用No.
-- 77: 仮定法過去（主節 would do）
 - 78: 仮定法過去の疑問文
-- 79: 仮定法過去完了（従節）
-- 81: 仮定法過去・過去完了の併用形
 - 82: 併用形
-- 83: If S were to do...
 - 84: If S should do...
-- 86: S wish + 仮定法過去完了
 - 87: S wish + would do
-- 88: If only + 仮定法
 - 89: S would rather + S' + 仮定法
-- 91: as if + 仮定法過去
 - 93: if it had not been for A
-- 94: but for A
 - 96: Had S done...
 - 97: Were S to do...
 - 99: Had it not been for A

@@ -41,7 +41,19 @@
 | 176 | 慣用的分詞構文 | B.md (d) |
 | 177 | with A done / with A 形容詞 | A.md (h), B.md (e) |
 
+## pair_003
+**使用済みNo.**: 164, 165, 167, 170, 174, 175, 176, 178
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 164 | hear A doing | A.md, B.md |
+| 165 | hear A done | A.md, B.md |
+| 167 | make oneself understood | A.md, B.md |
+| 170 | 分詞を否定する語 | A.md, B.md |
+| 174 | 受動態の独立分詞構文 | A.md, B.md |
+| 175 | 分詞構文の強調形 as S do | A.md, B.md |
+| 176 | 慣用的分詞構文 | A.md, B.md |
+| 178 | with A doing の付帯状況表現 | A.md, B.md |
+
 ## 未使用No.
-- 165: hear A done
-- 175: 分詞構文の強調形 as S do
-- 178: with A doing の付帯状況表現
+- なし

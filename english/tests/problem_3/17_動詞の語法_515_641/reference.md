@@ -75,18 +75,33 @@
 | 621 | fit A | B.md (f) |
 | 627 | stand A | B.md (g) |
 
+## pair_005
+**使用済みNo.**: 516, 518, 521, 524, 526, 527, 528, 533
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 516 | enjoy doing | A.md, B.md |
+| 518 | finish doing | A.md, B.md |
+| 521 | deny doing | A.md, B.md |
+| 524 | expect to do | A.md, B.md |
+| 526 | hope to do | A.md, B.md |
+| 527 | offer to do | A.md, B.md |
+| 528 | pretend to do | A.md, B.md |
+| 533 | regret doing | A.md, B.md |
+
+## pair_006
+**使用済みNo.**: 536, 537, 538, 540, 541, 543, 547, 549
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 536 | need doing | A.md, B.md |
+| 537 | want doing | A.md, B.md |
+| 538 | need doing / want doing | A.md, B.md |
+| 540 | go on to do | A.md, B.md |
+| 541 | get A to do | A.md, B.md |
+| 543 | have A done | A.md, B.md |
+| 547 | see A do | A.md, B.md |
+| 549 | その他 | A.md, B.md |
+
 ## 未使用No.（動詞の語法で重要なもの）
-- 516: enjoy doing
-- 518: finish doing
-- 521: deny doing
-- 524: expect to do
-- 526: hope to do
-- 527: offer to do
-- 528: pretend to do
-- 533: regret doing
-- 536-538: need doing, want doing
-- 540: go on to do
-- 541: get A to do
-- 543: have A done
-- 547: see A do
 - その他多数

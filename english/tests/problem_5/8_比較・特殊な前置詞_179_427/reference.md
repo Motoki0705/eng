@@ -23,17 +23,29 @@
 | 207 | be senior/junior to A | A.md (A), B.md (C) |
 | 210 | by far + 最上級 | A.md (D) |
 
+## pair_003
+**使用済みNo.**: 182, 184, 187, 191, 204, 386, 391
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 182 | twice the + 名詞 + of A | A.md, B.md |
+| 184 | as ... as possible | A.md, B.md |
+| 187 | as + 原級 + as ever lived | A.md, B.md |
+| 191 | the + 比較級 + of the two | A.md, B.md |
+| 204 | know better than to do | A.md, B.md |
+| 386 | in/on/at の基本用法 | A.md, B.md |
+| 391 | for と during | A.md, B.md |
+
 ## 未使用No.（比較で重要なもの）
 - 179-180: 原級比較の基本
-- 182-183: twice the + 名詞 + of A
-- 184: as ... as possible
-- 187: as + 原級 + as ever lived
-- 189-200: 比較級表現
-- 201-220: 最上級表現
+- 183: twice the number of A
+- 189-190: 比較級表現
+- 193-200: 比較級表現
+- 201-203, 205-220: 最上級表現
 
 ## 未使用No.（前置詞で重要なもの）
-- 386-389: in/on/at の基本用法
-- 391-392: for と during
+- 387-389: in/on/at の基本用法
+- 392: for と during
 - 395: 最上級 + in + 期間
 - 396-398: 場所を表す前置詞
 - 399-427: その他の重要前置詞

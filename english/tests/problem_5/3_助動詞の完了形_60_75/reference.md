@@ -23,13 +23,19 @@
 | 69 | It is necessary/important that S (should) + 原形 | A.md (D), B.md (D) |
 | 70 | cannot ... too ~ | A.md (C), B.md (C) |
 
+## pair_003
+**使用済みNo.**: 71, 72, 73, 74, 75
+
+| No. | 文法事項 | 問題ファイル |
+|-----|---------|-------------|
+| 71 | can't help doing | A.md, B.md |
+| 72 | cannot but do | A.md, B.md |
+| 73 | may well do | A.md, B.md |
+| 74 | might as well do | A.md, B.md |
+| 75 | might as well do | A.md, B.md |
+
 ## 未使用No.（助動詞の完了形で重要なもの）
-- 63: might have done
-- 65: ought to have done（肯定文）
+- なし
 
 ## 関連No.（助動詞慣用表現）
-- 70: cannot ... too ~
-- 71: can't help doing
-- 72: cannot but do
-- 73: may well do
-- 74-75: might as well do
+- 70: cannot ... too ~（使用済み）

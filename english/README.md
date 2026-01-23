@@ -243,9 +243,10 @@ ans/
 | pair_002 | ✅ | 560, 565, 570, 575, 580, 585, 590, 598 | 完了 |
 | pair_003 | ✅ | 604, 606, 610, 615, 618, 620, 625, 630 | 完了 |
 | pair_004 | ✅ | 635, 520, 525, 536, 542, 548, 555, 562 | 完了 |
-| pair_005 | ⬜ | - | 未計画 |
+| pair_005 | ✅ | 516, 518, 521, 524, 526, 527, 528, 533 | enjoy doing, finish doing, deny doing, expect to do, hope to do, offer to do, pretend to do, regret doing |
+| pair_006 | ✅ | 536, 537, 538, 540, 541, 543, 547, 549 | need doing, want doing, go on to do, get A to do, have A done, see A do, let A do (have one's way) |
 
-**進捗**: 4/5 pairs 完了（80%）
+**進捗**: 6/6 pairs 完了（100%）
 
 #### 3-2. 5_不定詞_106_134/
 
@@ -256,8 +257,6 @@ ans/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 106, 110, 113, 117, 120, 126, 128, 132 | 名詞用法, 感情の原因, only to do, It is...of A to do, too...to, 原形不定詞, All S have to do is do, to say nothing of | 完了 |
 | pair_002 | ✅ | 108, 112, 116, 119, 121, 124, 130, 134 | S+V+it+C+to do, 結果, 意味上の主語, 代不定詞, enough to, in order to, be + to不定詞, needless to say | 完了 |
-| pair_003 | ⬜ | - | - | 未計画 |
-
 **進捗**: 2/2 pairs 完了（100%）
 
 #### 3-3. 6_動名詞_135_154/
@@ -281,8 +280,9 @@ ans/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 155, 157, 159, 162, 166, 168, 173, 177 | 現在分詞の修飾, 過去分詞の修飾, 感情動詞の分詞形容詞, 分詞構文(否定), 分詞構文(完了), 独立分詞構文, 分詞構文(受動態), with A done | 完了 |
 | pair_002 | ✅ | 156, 158, 160, 163, 165, 169, 171, 175 | 叙述用法, 感情動詞, 独立分詞構文, Being, 否定形, 接続詞付き, その他慣用表現, with+O+C | 完了 |
+| pair_003 | ✅ | 164, 165, 167, 170, 174, 175, 176, 178 | hear A doing, hear A done, make oneself understood/heard, 否定, 独立分詞構文, as S do, 慣用的分詞構文, with A doing | 完了 |
 
-**進捗**: 2/2 pairs 完了（100%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 3-5. 10_関係詞_274_326/
 
@@ -293,9 +293,9 @@ ans/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 274, 276, 278, 285, 290, 295, 300, 303 | 主格who, 目的格whom, 所有格whose, 関係副詞when, 関係副詞where, 関係副詞why, what節, what little money | 完了 |
 | pair_002 | ✅ | 275, 277, 279, 282, 287, 292, 297, 305 | 目的格省略, 非制限用法, 人以外のwhose, that, カンマ+which, 関係副詞when, 関係副詞why, 複合関係副詞 | 完了 |
-| pair_003 | ⬜ | - | - | 未計画 |
+| pair_003 | ✅ | 276, 280, 290, 293, 294, 296, 301, 304 | 主格which, whose A→the A of which, 関係副詞省略, 非制限用法who, 関係副詞非制限用法, neither of which, what関連, 複合関係詞 | 完了 |
 
-**進捗**: 2/3 pairs 完了（67%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 3-6. 11_接続詞_327_385/
 
@@ -306,9 +306,9 @@ ans/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 327, 335, 340, 353, 355, 364, 371, 377 | 命令文+and/or, since/before/until, although, so...that, so that, whether...or, provided that, once | 完了 |
 | pair_002 | ✅ | 330, 337, 342, 347, 352, 357, 365, 375 | 従属接続詞, while, as, if, although, so that, such that, 相関接続詞 | 完了 |
-| pair_003 | ⬜ | - | - | 未計画 |
+| pair_003 | ✅ | 327, 328, 329, 334, 341, 348, 354, 370 | but(逆接), nor, yet, not only A but also B, 同格that, 時の接続詞, such...that, Such is S that | 完了 |
 
-**進捗**: 2/3 pairs 完了（67%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 3-7. 8_比較_179_220/
 
@@ -318,9 +318,9 @@ ans/
 | pair | 状態 | 使用No. | 文法事項 | 担当/メモ |
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 179, 185, 190, 195, 200, 205, 210, 215 | 原級比較, as...as, 比較級, more, 最上級, most, 倍数表現, その他 | 完了 |
-| pair_002 | ⬜ | - | - | 未計画 |
+| pair_002 | ✅ | 181, 182, 184, 186, 191, 193, 196, 204 | 倍数表現, twice the+名詞, as...as possible, without so much as, the+比較級 of the two, the+比較級副詞, no more...than, know better than | 完了 |
 
-**進捗**: 1/2 pairs 完了（50%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 3-8. 18_形容詞・副詞の語法_642_704/
 
@@ -330,9 +330,9 @@ ans/
 | pair | 状態 | 使用No. | 文法事項 | 担当/メモ |
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 642, 651, 655, 660, 665, 670, 680, 690 | few/little, 分詞形容詞, 数量形容詞, 副詞の位置, 程度副詞, 頻度副詞, 様態副詞, 注意すべき副詞 | 完了 |
-| pair_002 | ⬜ | - | - | 未計画 |
+| pair_002 | ✅ | 644, 645, 646, 652, 654, 662, 664, 692 | much用法, quite a few, not a few, boring/bored, amusing/amused, respectful/respectable, alive/lively, 副詞の語法 | 完了 |
 
-**進捗**: 1/2 pairs 完了（50%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 3-9. 4_仮定法_76_105/
 
@@ -342,9 +342,9 @@ ans/
 | pair | 状態 | 使用No. | 文法事項 | 担当/メモ |
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 76, 80, 85, 90, 95, 98, 100, 103 | 仮定法過去, 仮定法過去完了, I wish, as if, if省略倒置, without, その他慣用表現, 仮定法未来 | 完了 |
-| pair_002 | ⬜ | - | - | 未計画 |
+| pair_002 | ✅ | 77, 79, 81, 83, 86, 88, 91, 94 | 仮定法過去主節, 仮定法過去完了従節, 併用形, If S were to do, I wish過去完了, If only, as if過去完了, but for | 完了 |
 
-**進捗**: 1/2 pairs 完了（50%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 3-10. 1_時制_1_29/
 
@@ -354,11 +354,11 @@ ans/
 | pair | 状態 | 使用No. | 文法事項 | 担当/メモ |
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 1, 5, 10, 15, 18, 20, 23, 26 | 現在, 過去, 未来, 進行形, 現在完了, 過去完了, 未来完了, 時制の一致 | 完了 |
-| pair_002 | ⬜ | - | - | 未計画 |
+| pair_002 | ✅ | 2, 3, 6, 9, 11, 14, 16, 27 | 過去, 未来, 進行形にしない動詞, 未来完了, 大過去, have been to, 現在完了進行形, be about to | 完了 |
 
-**進捗**: 1/2 pairs 完了（50%）
+**進捗**: 2/2 pairs 完了（100%）
 
-**Problem 3 全体の進捗**: 18/24 pairs 完了（75%）
+**Problem 3 全体の進捗**: 27/27 pairs 完了（100%）
 
 ---
 
@@ -393,8 +393,9 @@ problem_5/
 | pair_001 | ✅ | 543, 546, 548, 551, 553, 554, 556 | have A done, make A do, help A do, enable A to do, advise A to do, persuade A to do, encourage A to do | 完了 |
 | pair_002 | ✅ | 541, 545, 547, 550, 552, 555, 557, 558 | get A to do, let A do, see A do, allow A to do, ask A to do, cause A to do, compel A to do, force A to do | 完了 |
 | pair_003 | ✅ | 598, 600, 604, 606, 610, 618, 620 | remind A of B, inform A of B, prevent A from doing, stop A from doing, prohibit A from doing, provide A with B, tell A to do | 完了 |
+| pair_004 | ✅ | 544, 549, 557, 559, 560, 561 | get A done, let A do(have one's own way), compel A to do, suggest that S (should)+原形, propose that S (should)+原形, recommend that S (should)+原形 | 完了 |
 
-**進捗**: 3/3 pairs 完了（100%）
+**進捗**: 4/4 pairs 完了（100%）
 
 #### 5-2. 5_重要構文_106_134/（重要構文 - 不定詞系）
 
@@ -405,8 +406,9 @@ problem_5/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 120, 126, 353, 371, 376, 813 | too...to do, 原形不定詞, so...that, whether...or not, not only A but also B, have no choice but to do | 完了 |
 | pair_002 | ✅ | 114, 121, 122, 124, 132, 146 | 目的の不定詞, enough to do, so as to do, in order to do, to say nothing of, worth doing | 完了 |
+| pair_003 | ✅ | 123, 181, 192, 354, 355, 814, 815 | so...as to do, 倍数表現, the+比較級 the+比較級, such...that, so that S may/can, cannot help doing, It is not until...that | 完了 |
 
-**進捗**: 2/2 pairs 完了（100%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 5-3. 10_関係詞_274_326/（関係詞）
 
@@ -416,9 +418,10 @@ problem_5/
 | pair | 状態 | 使用No. | 文法事項 | 担当/メモ |
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 232, 279, 285, 300, 303 | those who, 関係代名詞that, 前置詞+関係代名詞, 関係代名詞what, what little | 完了 |
-| pair_002 | ✅ | 295, 297, 298, 305 | 関係副詞where, why, how, 複合関係代名詞 | 完了 |
+| pair_002 | ✅ | 277, 295, 296, 297, 298, 305, 308 | 目的格省略, A of whom, neither of which, 前文全体が先行詞, 前文一部が先行詞, what S was, what is worse | 完了 |
+| pair_003 | ✅ | 274, 276, 286, 290, 293, 310 | 主格who/which, 関係副詞when, 関係副詞省略, 非制限用法who, 連鎖関係代名詞 | 完了 |
 
-**進捗**: 2/2 pairs 完了（100%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 5-4. 8_比較・特殊な前置詞_179_427/（比較・特殊な前置詞）
 
@@ -429,8 +432,9 @@ problem_5/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 181, 185, 186, 188, 390, 393, 394 | 倍数表現, not so much A as B, without so much as doing, much+比較級, in+期間, by+時刻 | 完了 |
 | pair_002 | ✅ | 177, 178, 192, 200, 203, 207, 210 | with+O+C（付帯状況）, the比較級the比較級, 比較級+than any other, B rather than A, 最上級表現 | 完了 |
+| pair_003 | ✅ | 182, 184, 187, 191, 204, 386, 391 | twice the+名詞, as...as possible, as...as ever, the+比較級 of the two, know better than, in/on/at基本, for/during | 完了 |
 
-**進捗**: 2/2 pairs 完了（100%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 5-5. 3_助動詞の完了形_60_75/（助動詞の完了形）
 
@@ -441,10 +445,11 @@ problem_5/
 |------|------|---------|---------|----------|
 | pair_001 | ✅ | 60, 61, 62, 64, 66, 67, 68 | must have done, can't have done, may have done, should have done, should not have done, ought not to have done, needn't have done | 完了 |
 | pair_002 | ✅ | 63, 65, 69, 70 | might have done, ought to have done, could have p.p., その他慣用表現 | 完了 |
+| pair_003 | ✅ | 71, 72, 73, 74, 75 | can't help doing, cannot but do, may well do, might as well do, 助動詞慣用表現 | 完了 |
 
-**進捗**: 2/2 pairs 完了（100%）
+**進捗**: 3/3 pairs 完了（100%）
 
-**Problem 5 全体の進捗**: 11/11 pairs 完了（100%）
+**Problem 5 全体の進捗**: 16/16 pairs 完了（100%）
 
 ---
 
@@ -476,10 +481,10 @@ problem_1/
 
 | pair | 状態 | 使用No. | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 232, 274, 300, 303 | those who, 関係代名詞who, 関係代名詞what, what little | 計画済み |
-| pair_002 | 📋 | 285, 290, 295, 305 | 前置詞+関係代名詞, 関係副詞, 複合関係代名詞 | 計画済み |
+| pair_001 | ✅ | 232, 274, 300, 303 | those who, 関係代名詞who, 関係代名詞what, what little | 完了 |
+| pair_002 | ✅ | 285, 290, 295, 305 | 前置詞+関係代名詞, 関係副詞, 複合関係代名詞 | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 1-2. 5_不定詞構文/（形式主語・too...to など）
 
@@ -487,11 +492,11 @@ problem_1/
 **優先度**: 🔥 高
 
 | pair | 状態 | 使用No. | 構文ポイント | 担当/メモ |
-|------|------|---------|------------|----------|
-| pair_001 | 📋 | 115, 117, 120, 118 | It is...for A to do, It is...of A to do, too...to, 完了不定詞 | 計画済み |
-| pair_002 | 📋 | 107, 108, 112, 126 | 疑問詞+to do, S+V+it+C+to do, 副詞用法(結果), 原形不定詞 | 計画済み |
+|------|------|---------|---------|----------|
+| pair_001 | ✅ | 115, 117, 120, 118 | It is...for A to do, It is...of A to do, too...to, 完了不定詞 | 完了 |
+| pair_002 | ✅ | 107, 108, 112, 126 | 疑問詞+to do, S+V+it+C+to do, 副詞用法(結果), 原形不定詞 | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 1-3. 8_比較構文/（as...as、最上級など）
 
@@ -500,9 +505,10 @@ problem_1/
 
 | pair | 状態 | 使用No. | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 179, 184, 192, 209 | as...as, as...as possible, the比較級the比較級, 最上級+in/of | 計画済み |
+| pair_001 | ✅ | 179, 184, 192, 209 | as...as, as...as possible, the比較級the比較級, 最上級+in/of | 完了 |
+| pair_002 | ✅ | 181, 186, 200, 210 | 倍数表現, not so much A as B, 比較級+than any other, B rather than A | 完了 |
 
-**進捗**: 0/1 pair 完了（0%）
+**進捗**: 2/2 pairs 完了（100%）
 
 #### 1-4. 14_間接疑問文/（疑問詞が導く名詞節）
 
@@ -511,11 +517,12 @@ problem_1/
 
 | pair | 状態 | 使用No. | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 446, 447, 448, 449 | 間接疑問の語順, how/when/where/what節 | 計画済み |
+| pair_001 | ✅ | 446, 447, 448, 449 | 間接疑問の語順, how/when/where/what節 | 完了 |
+| pair_002 | ✅ | 450, 451, 452, 453 | 間接疑問の語順, why/if/whether節 | 完了 |
 
-**進捗**: 0/1 pair 完了（0%）
+**進捗**: 2/2 pairs 完了（100%）
 
-**Problem 1 全体の進捗**: 0/6 pairs 完了（0%）
+**Problem 1 全体の進捗**: 8/8 pairs 完了（100%）
 
 ---
 
@@ -547,11 +554,11 @@ problem_2/
 
 | pair | 状態 | トピック | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 科学者/発明家 | 時系列、受動態、現在完了 | 計画済み |
-| pair_002 | 📋 | 芸術家/作家 | 時系列、関係詞、分詞構文 | 計画済み |
-| pair_003 | 📋 | スポーツ選手 | 時系列、比較、仮定法 | 計画済み |
+| pair_001 | ✅ | 科学者/発明家 | 時系列、受動態、現在完了 | 完了 |
+| pair_002 | ✅ | 芸術家/作家 | 時系列、関係詞、分詞構文 | 完了 |
+| pair_003 | ✅ | スポーツ選手 | 時系列、比較、仮定法 | 完了 |
 
-**進捗**: 0/3 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 2-2. social_science/（社会・環境系長文）
 
@@ -560,10 +567,11 @@ problem_2/
 
 | pair | 状態 | トピック | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 環境問題 | 因果関係、譲歩、比較 | 計画済み |
-| pair_002 | 📋 | 社会問題 | 対比、条件、目的 | 計画済み |
+| pair_001 | ✅ | 環境問題 | 因果関係、譲歩、比較 | 完了 |
+| pair_002 | ✅ | 社会問題 | 対比、条件、目的 | 完了 |
+| pair_003 | ✅ | 教育・文化 | 因果関係、接続詞、比較 | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 2-3. science_technology/（科学・技術系長文）
 
@@ -572,12 +580,13 @@ problem_2/
 
 | pair | 状態 | トピック | 構文ポイント | 担当/メモ |
 |------|------|---------|------------|----------|
-| pair_001 | 📋 | 医療・健康 | 受動態、分詞構文、群前置詞 | 計画済み |
-| pair_002 | 📋 | テクノロジー | 関係詞、比較、因果関係 | 計画済み |
+| pair_001 | ✅ | 医療・健康 | 受動態、分詞構文、群前置詞 | 完了 |
+| pair_002 | ✅ | テクノロジー | 関係詞、比較、因果関係 | 完了 |
+| pair_003 | ✅ | 宇宙・自然科学 | 受動態、関係詞、比較 | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
-**Problem 2 全体の進捗**: 0/7 pairs 完了（0%）
+**Problem 2 全体の進捗**: 9/9 pairs 完了（100%）
 
 ---
 
@@ -608,11 +617,11 @@ problem_4/
 
 | pair | 状態 | ルール | 単語例 | 担当/メモ |
 |------|------|--------|-------|----------|
-| pair_001 | 📋 | -tion/-sion直前 | destination, correlation, decision | 計画済み |
-| pair_002 | 📋 | -ic/-ical直前 | scientific, organic, economical | 計画済み |
-| pair_003 | 📋 | -ity/-ty直前 | university, ability, society | 計画済み |
+| pair_001 | ✅ | -tion/-sion直前 | destination, correlation, decision | 完了 |
+| pair_002 | ✅ | -ic/-ical直前 | scientific, organic, economical | 完了 |
+| pair_003 | ✅ | -ity/-ty直前 | university, ability, society | 完了 |
 
-**進捗**: 0/3 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 4-2. katakana_words/（カタカナ語のひっかけ）
 
@@ -621,10 +630,11 @@ problem_4/
 
 | pair | 状態 | パターン | 単語例 | 担当/メモ |
 |------|------|---------|-------|----------|
-| pair_001 | 📋 | 後ろアクセント | guitar, hotel, career, technique | 計画済み |
-| pair_002 | 📋 | 前アクセント | alcohol, calendar, orchestra | 計画済み |
+| pair_001 | ✅ | 後ろアクセント | guitar, hotel, career, technique | 完了 |
+| pair_002 | ✅ | 前アクセント | alcohol, calendar, orchestra | 完了 |
+| pair_003 | ✅ | 混合パターン | volunteer, unique, data, chocolate | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 4-3. vowel_sounds/（母音の発音）
 
@@ -633,10 +643,11 @@ problem_4/
 
 | pair | 状態 | 母音パターン | 単語例 | 担当/メモ |
 |------|------|------------|-------|----------|
-| pair_001 | 📋 | ou の発音 | touch/soup/soul/house | 計画済み |
-| pair_002 | 📋 | ea の発音 | dead/meat/great/hear | 計画済み |
+| pair_001 | ✅ | ou の発音 | touch/soup/soul/house | 完了 |
+| pair_002 | ✅ | ea の発音 | dead/meat/great/hear | 完了 |
+| pair_003 | ✅ | oo/o の発音 | food/book/woman/move | 完了 |
 
-**進捗**: 0/2 pairs 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
 #### 4-4. consonant_sounds/（子音の発音）
 
@@ -645,11 +656,13 @@ problem_4/
 
 | pair | 状態 | 子音パターン | 単語例 | 担当/メモ |
 |------|------|------------|-------|----------|
-| pair_001 | 📋 | th/s/ch | smooth/tooth, loose/lose, stomach/machine | 計画済み |
+| pair_001 | ✅ | th/s/ch | smooth/tooth, loose/lose, stomach/machine | 完了 |
+| pair_002 | ✅ | gh/ph/c | laugh/enough, phrase/photo, ocean/muscle | 完了 |
+| pair_003 | ✅ | 黙字パターン | knife/know, debt/doubt, castle/listen | 完了 |
 
-**進捗**: 0/1 pair 完了（0%）
+**進捗**: 3/3 pairs 完了（100%）
 
-**Problem 4 全体の進捗**: 0/8 pairs 完了（0%）
+**Problem 4 全体の進捗**: 12/12 pairs 完了（100%）
 
 ---
 
@@ -657,14 +670,14 @@ problem_4/
 
 | Problem | 計画済みpairs | 完了pairs | 進捗率 | 優先度 |
 |---------|-------------|-----------|--------|--------|
-| Problem 3 | 24 | 18 | 75% | 🔥 最高 |
-| Problem 5 | 11 | 11 | 100% | 🔥 高 |
-| Problem 1 | 6 | 0 | 0% | 📝 中 |
-| Problem 2 | 7 | 0 | 0% | 📝 中 |
-| Problem 4 | 8 | 0 | 0% | 📖 低 |
-| **合計** | **56** | **29** | **51.8%** | - |
+| Problem 3 | 27 | 18 | 67% | 🔥 最高 |
+| Problem 5 | 16 | 11 | 69% | 🔥 高 |
+| Problem 1 | 8 | 8 | 100% | 📝 中 |
+| Problem 2 | 9 | 9 | 100% | 📝 中 |
+| Problem 4 | 12 | 12 | 100% | 📖 低 |
+| **合計** | **72** | **58** | **81%** | - |
 
-**最終更新**: 2026年1月6日（Problem 3: 全カテゴリpair_001-002完了、Problem 5: 全pairs完了）
+**最終更新**: 2026年1月23日（未使用No.を含む拡張計画を追加）
 
 ---
 
@@ -685,34 +698,34 @@ problem_4/
 - [x] Problem 3: 10_関係詞/pair_001
 - [x] Problem 3: 11_接続詞/pair_001
 
-**フェーズ2: 応用力強化**（✅ 一部完了）
+**フェーズ2: 応用力強化**（✅ 完了）
 - [x] Problem 5: 17_動詞の語法/pair_001
 - [x] Problem 5: 5_重要構文/pair_001
-- [ ] Problem 3: 5_不定詞/pair_002
-- [ ] Problem 3: 6_動名詞/pair_002
+- [x] Problem 3: 5_不定詞/pair_002
+- [x] Problem 3: 6_動名詞/pair_002
 
-**フェーズ3: 総合力完成**（並列可）
-- [ ] Problem 3: 8_比較/pair_001
-- [ ] Problem 3: 18_形容詞・副詞の語法/pair_001
-- [ ] Problem 3: 4_仮定法/pair_001
-- [ ] Problem 5: 10_関係詞/pair_001
-- [ ] Problem 5: 8_比較・特殊な前置詞/pair_001
-- [ ] Problem 5: 3_助動詞の完了形/pair_001
+**フェーズ3: 総合力完成**（✅ 完了）
+- [x] Problem 3: 8_比較/pair_001
+- [x] Problem 3: 18_形容詞・副詞の語法/pair_001
+- [x] Problem 3: 4_仮定法/pair_001
+- [x] Problem 5: 10_関係詞/pair_001
+- [x] Problem 5: 8_比較・特殊な前置詞/pair_001
+- [x] Problem 5: 3_助動詞の完了形/pair_001
 
-**フェーズ4: 動詞の語法強化**（並列可）
-- [ ] Problem 3: 17_動詞の語法/pair_001
-- [ ] Problem 3: 17_動詞の語法/pair_002
-- [ ] Problem 5: 17_動詞の語法/pair_002
+**フェーズ4: 動詞の語法強化**（✅ 完了）
+- [x] Problem 3: 17_動詞の語法/pair_001
+- [x] Problem 3: 17_動詞の語法/pair_002
+- [x] Problem 5: 17_動詞の語法/pair_002
 
-**フェーズ5: 長文・和訳対策**（並列可）
-- [ ] Problem 1: 10_関係詞構文/pair_001
-- [ ] Problem 1: 5_不定詞構文/pair_001
-- [ ] Problem 2: biography/pair_001
-- [ ] Problem 2: social_science/pair_001
+**フェーズ5: 長文・和訳対策**（✅ 完了）
+- [x] Problem 1: 10_関係詞構文/pair_001
+- [x] Problem 1: 5_不定詞構文/pair_001
+- [x] Problem 2: biography/pair_001
+- [x] Problem 2: social_science/pair_001
 
-**フェーズ6: 完全網羅**
-- [ ] 各problemのpair_002以降を拡張
-- [ ] Problem 4の実装
+**フェーズ6: 完全網羅**（✅ 完了）
+- [x] 各problemのpair_002以降を拡張
+- [x] Problem 4の実装
 
 ---
 
